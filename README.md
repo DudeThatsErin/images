@@ -8,7 +8,7 @@ These are all of the wallpapers I switch between and have gathered for my phone.
 These are all of the avatars I use throughout the internet and switch between.
 
 ## Obsidian/Notion Banners
-These are the settings I use and the banners I use for the [Obsidian Banners](https://github.com/noatpad/obsidian-banners) plugin. I do not take claim to ANY images here. I did not make any of them.
+These are the settings I use and the banners I use for the [Obsidian Banners](https://github.com/noatpad/obsidian-banners) plugin. I do not take claim to ANY images here. I did not make any of them. These may also work as wallpapers on your phone so it is worth looking through them.
 
 ## Setup
 
