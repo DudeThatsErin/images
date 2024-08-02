@@ -10,7 +10,9 @@ These are all of the avatars I use throughout the internet and switch between.
 ## Obsidian/Notion Banners
 These are the settings I use and the banners I use for the [Obsidian Banners](https://github.com/noatpad/obsidian-banners) plugin. I do not take claim to ANY images here. I did not make any of them. These may also work as wallpapers on your phone so it is worth looking through them.
 
-## Setup
+---
+
+## Obsidian Banners Setup
 
 To install the [Obsidian Banners](https://github.com/noatpad/obsidian-banners) plugin you will want to first install [Obsidian BRAT](https://github.com/TfTHacker/obsidian42-brat) as the version that works with desktop and mobile is not the one in the Obsidian Plugin store. It is version 2.0.5 beta.
 
